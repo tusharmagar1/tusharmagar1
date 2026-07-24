@@ -11,7 +11,7 @@
   <a href="https://instagram.com/tusharmagarr">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/tushar-magar">
+  <a href="https://www.linkedin.com/in/tushar-magar-7b80a2255">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:tusharmagar321@gmail.com">
